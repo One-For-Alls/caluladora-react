@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/caluladora-react/static/css/main.6c73db2a.css",
+    "main.js": "/caluladora-react/static/js/main.4f7c6de5.js",
+    "static/media/Logo-texto2.png": "/caluladora-react/static/media/Logo-texto2.ba0928a757f7042f30cc.png",
+    "index.html": "/caluladora-react/index.html",
+    "main.6c73db2a.css.map": "/caluladora-react/static/css/main.6c73db2a.css.map",
+    "main.4f7c6de5.js.map": "/caluladora-react/static/js/main.4f7c6de5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c73db2a.css",
+    "static/js/main.4f7c6de5.js"
+  ]
+}
